@@ -61,12 +61,12 @@ export const tools = [
 export const skills = [
   {
     name: "ReactJs",
-    value: 98,
+    value: 78,
     icon: Reactjs,
   },
   {
     name: "NodeJs",
-    value: 96,
+    value: 76,
     icon: Nodejs,
   },
   {
@@ -91,12 +91,12 @@ export const skills = [
   },
   {
     name: "JavaScript",
-    value: 88,
+    value: 90,
     icon: Javascript,
   },
   {
     name: "MySQL",
-    value: 78,
+    value: 92,
     icon: MySQL,
   },
 ];
@@ -104,45 +104,45 @@ export const skills = [
 export const projects = [
   {
     id: 1,
-    title: "Book Bounty",
+    title: "Calculator",
     cat: "Web Design",
-    url: "https://github.com/shekharkrsingh/Book-Store",
-    img: BookBounty,
+    url: "https://github.com/vjgopinath12/MyWebSite/blob/master/calc.html",
+    img: Calc,
   },
   {
     id: 2,
     title: "Portfolio Website",
     cat: "Web Design",
-    url: "https://github.com/shekharkrsingh/portfolio",
+    url: "https://github.com/vjgopinath12/Portfolio",
     img: Portfolio,
   },
   {
     id: 3,
-    title: "Idea's Corner",
+    title: "Currency",
     cat: "Web Design",
-    url: "https://github.com/shekharkrsingh/ideas_Corner-main",
-    img: Idea,
+    url: "https://github.com/vjgopinath12/MyWebSite/blob/master/Currency.html",
+    img: Currency,
   },
   {
     id: 4,
-    title: "Study Notion",
+    title: "ToDolist",
     cat: "Web Design",
-    url: "https://github.com/shekharkrsingh/studynotion",
-    img: StudyNotion,
+    url: "https://github.com/vjgopinath12/MyWebSite/blob/master/todolist.html",
+    img: TodoList,
   },
   {
     id: 5,
-    title: "Grocery List Application",
+    title: "Jkart",
     cat: "Web Design",
-    url: "https://github.com/shekharkrsingh/G-List",
-    img: Glist,
+    url: "https://github.com/vjgopinath12/MyWebSite/blob/master/jkart1.html",
+    img: Jkart,
   },
   {
     id: 6,
-    title: "Chat Application",
-    cat: "Web App",
-    url: "https://github.com/shekharkrsingh/Mail-SYstem",
-    img: Chat,
+    title: "MemCardGame",
+    cat: "Web Design",
+    url: "https://github.com/vjgopinath12/MyWebSite/blob/master/MemCardGame.html",
+    img: MemCardGame,
   },
   // {
   //   id: 7,

@@ -29,7 +29,7 @@ function App() {
         <div className={`w-full h-full min-h-[100vh] bg-white ${darkMode && "dark"}`}>
             <Helmet>
                 <meta charSet="utf-8"/>
-                <title>Shekhar's Portfolio</title>
+                <title>Gopi's Portfolio</title>
                 {/* <link rel="canonical" href="http://mysite.com/example"/> */}
                 <meta name="description" content="Shekhar Portfolio website" />
             </Helmet>
