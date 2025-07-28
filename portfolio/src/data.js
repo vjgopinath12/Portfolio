@@ -41,12 +41,13 @@ export const skills = [
 
 export const projects = [
   {
-    id: 1,
-    title: "Calc",
-    cat: "Web Design",
-    url: "https://github.com/vjgopinath12/MyWebSite/blob/master/calc.html",
-    img: Portfolio,
-  },
+  id: 1,
+  title: "Calc",
+  cat: "Web Design",
+  url: "https://github.com/vjgopinath12/MyWebSite/blob/master/calc.html",
+  img: Calc, // ✅ instead of Portfolio
+},
+
   {
     id: 2,
     title: "Portfolio Website",
