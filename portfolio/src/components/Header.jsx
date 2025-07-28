@@ -30,7 +30,7 @@ const Header = () => {
 
                 <h1
                     className='text-5xl 2xl:text-7xl font-extrabold text-black dark:text-neutral-100 tracking-wider'>
-                    Shekhar
+                   Gopinath
                 </h1>
 
                 <p className='text-md text-black dark:text-gray-100 mt-5 2xl:mt-10'>

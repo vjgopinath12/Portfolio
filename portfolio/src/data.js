@@ -104,7 +104,7 @@ export const skills = [
 export const projects = [
   {
     id: 1,
-    title: "Calculator",
+    title: "Calc",
     cat: "Web Design",
     url: "https://github.com/vjgopinath12/MyWebSite/blob/master/calc.html",
     img: Calc,

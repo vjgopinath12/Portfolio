@@ -36,19 +36,19 @@ const About = () => {
           data-aos-easing='ease-in-out'
         >
           <p className='flex gap-3 items-center justify-center rounded-full shadow-lg py-2 px-4 bg-[#030a1c] text-white cursor-pointer'>
-            <FaUserAlt size={14} /> Shekhar Kumar Singh
+            <FaUserAlt size={14} /> Gopinath V
           </p>
           <p className='flex gap-3 items-center justify-center rounded-full shadow-lg py-2 px-4 bg-[#030a1c] text-white cursor-pointer'>
-            <MdOutlineAlternateEmail size={14} /> shekharkrsingh6432@gmail.com
+            <MdOutlineAlternateEmail size={14} /> vjgopinath12@gmail.com
           </p>
           <a
             href='https://wa.me/+11 234 567 897'
             className='flex gap-3 items-center justify-center rounded-full shadow-lg py-2 px-4 bg-[#030a1c] text-white cursor-pointer'
           >
-            <BsWhatsapp size={14} /> +91 95499 64878
+            <BsWhatsapp size={14} /> +91 6381327143
           </a>
           <p className='flex gap-3 items-center justify-center rounded-full shadow-lg py-2 px-4 bg-[#030a1c] text-white cursor-pointer'>
-            <MdWifiCalling2 size={14} /> +91 95088 39640
+            <MdWifiCalling2 size={14} /> +91 6381327143
           </p>
         </div>
       </div>

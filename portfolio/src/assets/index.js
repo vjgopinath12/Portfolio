@@ -5,11 +5,11 @@ export { default as Nodejs } from "./nodejs.svg";
 export {default as AWS} from "./aws.svg";
 export {default as MySQL} from "./mysql.svg";
 export {default as Portfolio} from "./work/Portfolio.png";
-export {default as StudyNotion} from "./work/studyNotion.png";
-export {default as BookBounty} from "./work/BookBounty.png";
-export {default as Chat} from "./work/chat.png"
-export {default as Glist} from "./work/G-List.png"
-export {default as Idea} from "./work/ideasCorner.png"
+export {default as Jkart} from "./work/Jkart.png";
+export {default as TodoList} from "./work/TodoList.png";
+export {default as MemCardGame} from "./work/MemCardGame.png"
+export {default as Currency} from "./work/Currency.png"
+export {default as Calc} from "./work/calc.png"
 
 export { default as Redux } from "./redux.svg";
 export { default as Express } from "./express.svg";

@@ -16,8 +16,8 @@ const Footer = () => {
 
       <div className='w-full flex flex-col md:flex-row py-20 px-8 md:px-10 gap-10 lg:gap-20 justify-between '>
         <p className='text-lg text-white font-semibold '>
-          Address IIST Indore,
-          453331, IN
+          Address PSVPEC Chennai,
+          600127, IN
         </p>
 
         <div className='flex flex-col md:flex-row text-md gap-5 md:gap-20 text-white '>
@@ -27,8 +27,8 @@ const Footer = () => {
         </div>
 
         <div className='flex flex-col gap-5 text-md text-white '>
-          <p>shekharkrsingh6432</p>
-          <p>+91 95499 64878</p>
+          <p>vjgopinath12</p>
+          <p>+91 6381327143</p>
         </div>
       </div>
 
@@ -36,15 +36,15 @@ const Footer = () => {
         <p className='text-white font-semibold tracking-wider'>Social Media</p>
 
         <div className='flex gap-10 text-white text-2xl mb-10 '>
-          <a href="https://www.linkedin.com/in/shekhar-singh-kr/">
+          <a href="http://www.linkedin.com/in/gopinath-venkatesan-40458921a">
             <BsLinkedin className='hover:scale-110' />
           </a>
-          <a href="https://github.com/shekharkrsingh">
+          <a href="https://github.com/vjgopinath12">
           <FaGithub className='hover:scale-125' />
           </a>
         </div>
 
-        <p className='text-gray-400 text-md tracking-wider'>@{currentYear} Shekhar</p>
+        <p className='text-gray-400 text-md tracking-wider'>@{currentYear} Gopi</p>
       </div>
     </footer>
   );

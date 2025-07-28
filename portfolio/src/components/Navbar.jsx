@@ -10,7 +10,7 @@ const Navbar = ({darkMode, isOpen, toggleMenu, toggleTheme}) => {
             <div className="w-full items-center justify-between py-4 px-4 md:px-12">
                 <div className="flex items-center justify-between w-full">
                     <a href="/" className="text-2xl font-bold text-blue-500 cursor-pointer">
-                        Shekhar
+                        Gopinath
                     </a>
                     <ul className="hidden md:flex gap-10 text-lg text-slate-800 dark:text-gray-200">
                         <li className="cursor-pointer hover:text-blue-500">
