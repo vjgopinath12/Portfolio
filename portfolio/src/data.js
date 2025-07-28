@@ -2,7 +2,7 @@ import {
   CSS3,
   MySQL,
   AWS,
-  Portfolio, // Used as default image placeholder
+  Portfolio,
   Glist,
   StudyNotion,
   Express,
@@ -14,88 +14,29 @@ import {
 } from "./assets";
 
 export const projectStats = [
-  {
-    name: "DSA Questions",
-    value: "500+",
-  },
-  {
-    name: "Programing language",
-    value: "3+",
-  },
-  {
-    name: "Website Design",
-    value: "10+",
-  },
-  {
-    name: "Technologies",
-    value: "+12",
-  },
+  { name: "DSA Questions", value: "500+" },
+  { name: "Programing language", value: "3+" },
+  { name: "Website Design", value: "10+" },
+  { name: "Technologies", value: "+12" },
 ];
 
 export const tools = [
-  {
-    name: "MySQL",
-    icon: MySQL,
-  },
-  {
-    name: "Express",
-    icon: Express,
-  },
-  {
-    name: "React",
-    icon: Reactjs,
-  },
-  {
-    name: "NodeJs",
-    icon: Nodejs,
-  },
-  {
-    name: "AWS",
-    icon: AWS,
-  },
+  { name: "MySQL", icon: MySQL },
+  { name: "Express", icon: Express },
+  { name: "React", icon: Reactjs },
+  { name: "NodeJs", icon: Nodejs },
+  { name: "AWS", icon: AWS },
 ];
 
 export const skills = [
-  {
-    name: "ReactJs",
-    value: 78,
-    icon: Reactjs,
-  },
-  {
-    name: "NodeJs",
-    value: 76,
-    icon: Nodejs,
-  },
-  {
-    name: "AWS",
-    value: 60,
-    icon: AWS,
-  },
-  {
-    name: "MongoDB",
-    value: 70,
-    icon: Mongodb,
-  },
-  {
-    name: "CSS3",
-    value: 98,
-    icon: CSS3,
-  },
-  {
-    name: "HTML5",
-    value: 98,
-    icon: HTML5,
-  },
-  {
-    name: "JavaScript",
-    value: 90,
-    icon: Javascript,
-  },
-  {
-    name: "MySQL",
-    value: 92,
-    icon: MySQL,
-  },
+  { name: "ReactJs", value: 78, icon: Reactjs },
+  { name: "NodeJs", value: 76, icon: Nodejs },
+  { name: "AWS", value: 60, icon: AWS },
+  { name: "MongoDB", value: 70, icon: Mongodb },
+  { name: "CSS3", value: 98, icon: CSS3 },
+  { name: "HTML5", value: 98, icon: HTML5 },
+  { name: "JavaScript", value: 90, icon: Javascript },
+  { name: "MySQL", value: 92, icon: MySQL },
 ];
 
 export const projects = [
