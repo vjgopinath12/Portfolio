@@ -2,10 +2,7 @@ import {
   CSS3,
   MySQL,
   AWS,
-  Idea,
-  BookBounty,
-  Chat,
-  Portfolio,
+  Portfolio, // Used as default image placeholder
   Glist,
   StudyNotion,
   Express,
@@ -107,7 +104,7 @@ export const projects = [
     title: "Calc",
     cat: "Web Design",
     url: "https://github.com/vjgopinath12/MyWebSite/blob/master/calc.html",
-    img: Calc,
+    img: Portfolio,
   },
   {
     id: 2,
@@ -121,36 +118,29 @@ export const projects = [
     title: "Currency",
     cat: "Web Design",
     url: "https://github.com/vjgopinath12/MyWebSite/blob/master/Currency.html",
-    img: Currency,
+    img: Portfolio,
   },
   {
     id: 4,
     title: "ToDolist",
     cat: "Web Design",
     url: "https://github.com/vjgopinath12/MyWebSite/blob/master/todolist.html",
-    img: TodoList,
+    img: Portfolio,
   },
   {
     id: 5,
     title: "Jkart",
     cat: "Web Design",
     url: "https://github.com/vjgopinath12/MyWebSite/blob/master/jkart1.html",
-    img: Jkart,
+    img: Portfolio,
   },
   {
     id: 6,
     title: "MemCardGame",
     cat: "Web Design",
     url: "https://github.com/vjgopinath12/MyWebSite/blob/master/MemCardGame.html",
-    img: MemCardGame,
+    img: Portfolio,
   },
-  // {
-  //   id: 7,
-  //   title: "Eat Well App",
-  //   cat: "Mobile App",
-  //   url: "",
-  //   img: food1,
-  // },
 ];
 
 export const softskills = [
