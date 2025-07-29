@@ -48,7 +48,7 @@ const About = () => {
             <BsWhatsapp size={14} /> +91 6381327143
           </a>
           <p className='flex gap-3 items-center justify-center rounded-full shadow-lg py-2 px-4 bg-[#030a1c] text-white cursor-pointer'>
-            <MdWifiCalling2 size={14} /> +91 6381327143
+            <MdWifiCalling2 size={14} /> +91 7448893690
           </p>
         </div>
       </div>

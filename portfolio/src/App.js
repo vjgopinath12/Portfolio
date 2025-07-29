@@ -31,7 +31,7 @@ function App() {
                 <meta charSet="utf-8"/>
                 <title>Gopi's Portfolio</title>
                 {/* <link rel="canonical" href="http://mysite.com/example"/> */}
-                <meta name="description" content="Shekhar Portfolio website" />
+                <meta name="description" content="Gopi's Portfolio website" />
             </Helmet>
             <div className='w-full h-full min-h-[100vh] bg-white '>
                 <div

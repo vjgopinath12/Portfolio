@@ -16,8 +16,7 @@ const Footer = () => {
 
       <div className='w-full flex flex-col md:flex-row py-20 px-8 md:px-10 gap-10 lg:gap-20 justify-between '>
         <p className='text-lg text-white font-semibold '>
-          Address PSVPEC Chennai,
-          600127, IN
+          Address <br /> Bengaluru,Karnataka, <br/> 560037,India <br />
         </p>
 
         <div className='flex flex-col md:flex-row text-md gap-5 md:gap-20 text-white '>

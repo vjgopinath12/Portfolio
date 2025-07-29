@@ -5,12 +5,16 @@ import {
   Portfolio,
  Calc,
   MemCardGame,
+  Currency,
+  TodoList,
+  Jkart,
   Express,
   HTML5,
   Javascript,
   Mongodb,
   Nodejs,
   Reactjs,
+
 } from "./assets";
 
 export const projectStats = [
@@ -60,28 +64,28 @@ export const projects = [
     title: "Currency",
     cat: "Web Design",
     url: "https://github.com/vjgopinath12/MyWebSite/blob/master/Currency.html",
-    img: Portfolio,
+    img: Currency,
   },
   {
     id: 4,
     title: "ToDolist",
     cat: "Web Design",
     url: "https://github.com/vjgopinath12/MyWebSite/blob/master/todolist.html",
-    img: Portfolio,
+    img: TodoList,
   },
   {
     id: 5,
     title: "Jkart",
     cat: "Web Design",
     url: "https://github.com/vjgopinath12/MyWebSite/blob/master/jkart1.html",
-    img: Portfolio,
+    img: Jkart,
   },
   {
     id: 6,
     title: "MemCardGame",
     cat: "Web Design",
     url: "https://github.com/vjgopinath12/MyWebSite/blob/master/MemCardGame.html",
-    img: Portfolio,
+    img: MemCardGame,
   },
 ];
 

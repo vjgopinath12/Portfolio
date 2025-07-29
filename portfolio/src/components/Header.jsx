@@ -39,7 +39,7 @@ const Header = () => {
                 </p>
 
                 <div className='mt-10 flex gap-10'>
-                    <a href="mailto:shekharkrsingh6432@gmail.com"
+                    <a href="mailto:vjgopinath2@gmail.com"
                         className='bg-orange-700 text-lg text-white font-semibold rounded-md py-3 px-5'>
                         Hire Me
                     </a>
@@ -59,7 +59,7 @@ const Header = () => {
                     <img
                         src={Profile}
                         alt="profile"
-                        className='w-auto h-full absolute -top-5 md:-top-10'
+                        className='w-auto h-full absolute -top-5 md:-top-10 object-cover rounded-full shadow-lg'
                         data-aos='fade-down'
                         data-aos-offset='200'
                         data-aos-delay='50'
