@@ -43,7 +43,7 @@ const Header = () => {
                         className='bg-orange-700 text-lg text-white font-semibold rounded-md py-3 px-5'>
                         Hire Me
                     </a>
-                    <a href='https://drive.google.com/uc?export=download&id=1YQuDvDWHff5Uo5IKiGv1WVORgY8Z9v5y'>
+                    <a href='https://drive.google.com/file/d/1RsTcwhgogGCpj2YVv7pDn62pB_IuM-II/view?usp=drive_link'>
                         <button
                             className='text-lg text-white fonnt-semibold rounded-md py-3 px-5 bg-black dark:bg-[#224cff10]'>
                             Resume
